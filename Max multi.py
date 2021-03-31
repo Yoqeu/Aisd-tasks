@@ -1,0 +1,6 @@
+i = input()
+i = i.split()
+b = input()
+b = b.split()
+b = list(map(int, b))
+b.sort()
